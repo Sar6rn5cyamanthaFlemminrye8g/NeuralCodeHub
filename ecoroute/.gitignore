@@ -1,0 +1,7 @@
+__pycache__/
+*.env
+data/map_data/
+data/air_quality_data/
+mobile_app/node_modules/
+mobile_app/android/
+mobile_app/ios/
